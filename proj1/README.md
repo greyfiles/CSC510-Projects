@@ -12,7 +12,7 @@
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/MBB66yQVwy8/0.jpg)](http://www.youtube.com/watch?v=MBB66yQVwy8 "csc510 working gits")
 
-##Essay 
+## Essay 
 > ### 🔍 Challenges Faced 🔍
 
 - **Outdated Dependencies**: Some projects relied on specific software dependencies and libraries that had either been deprecated or updated significantly since the code was written. Trying to find the exact versions or suitable substitutes was a demanding task.
