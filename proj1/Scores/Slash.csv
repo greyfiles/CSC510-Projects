@@ -1,12 +1,12 @@
 Criteria,Comments
 Workload_Dist,Commits were made by all group members. There are members who committed more than some others and a few that barely changed anything at all.
 Commits,369
-Unique_Committers,All members committed, the commit heavy members all about
+Unique_Committers,All members committed. The commit heavy members all about evenly had around 30 - 40
 Issue_Reports,36
 Issues_Closed,32
 Doc_Quality,Github md files. Formattng is good and clear
 Func/Class_Desc,None aside from inline comments in the code
-Tutorials,Only video playing describes use. Also the description of how
+Tutorials,Only video playing describes use. Also the description of how to just send an api call for results is detailed
 Doc_Storytelling,Does provide justification for why you might want to use it
 Project_Videos,Yes
 Version_Control,Git
