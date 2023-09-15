@@ -1,30 +1,32 @@
-Criteria,Score,Comments
-Workload_Dist,0,Comments
-Commits,0,Comments
-Unique_Committers,0,Comments
-Issue_Reports,0,Comments
-Issues_Closed,0,Comments
-Doc_Quality,0,Comments
-Func/Class_Desc,0,Comments
-Tutorials,0,Comments
-Doc_Storytelling,0,Comments
-Project_Videos,0,Comments
-Version_Control,0,Comments
-Style_Checkers,0,Comments
-Code_Formatters,0,Comments
-Syntax_Checkers,0,Comments
-Code_Coverage,0,Comments
-Other_Tools,0,Comments
-Test_Cases,0,Comments
-Routine_Tests,0,Comments
-CONTRIBUTING_Guide,0,Comments
-Issue_Discussions,0,Comments
-Chat_Channel,0, Comments
-Failing_Case_Issues,0,Comments
-Team_Tool_Usage,0,Comments
-Repo_Configs,0,Comments
-Team_System_Knowledge,0,Comments 
-Team_Code_Contrib,0,Comments
-Release_Cycles,0,Comments
-Documentation_Video,0,Comments
-Software_Eval,0,Comments
+Criteria,Comments
+Workload_Dist,"All group members contributed. There were a few members who contributed 
+less than the top contributors but most work was evenly distributed"
+Commits,427
+Unique_Committers,10
+Issue_Reports,19
+Issues_Closed,19
+Doc_Quality,"Basic GitHub md, text, formatting is good"
+Func/Class_Desc,"ER Flowchar, App flowchart, no description of class/fuctions"
+Tutorials,"Has pictures of each page and its purpose, no real mini-tutorials though
+everything is straightforward and simple"
+Doc_Storytelling,60%
+Project_Videos,Yes has short video detailing why their prodict should be used
+Version_Control,Git
+Style_Checkers,Flake8
+Code_Formatters,Flake8
+Syntax_Checkers,Flake8
+Code_Coverage,"Yes, using pytest-cov version 2.4.0 with 75% coverage"
+Other_Tools,No
+Test_Cases,Yes
+Routine_Tests,Yes
+CONTRIBUTING_Guide,"Yes, suffifient tips for a user to contribute"
+Issue_Discussions,Yes
+Chat_Channel,"No, just used GitHub Issues and PR to discuss"
+Failing_Case_Issues,No
+Team_Tool_Usage,Yes
+Repo_Configs,Yes
+Team_System_Knowledge,No
+Team_Code_Contrib,No
+Release_Cycles,"Yes, weekly iterations/updates"
+Documentation_Video,6:46
+Software_Eval,
