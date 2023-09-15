@@ -1,4 +1,4 @@
-Criteria,Score,Comments
+Criteria,Comments
 Workload_Dist,Commits were made by all group members. There are members who committed more than some others and a few that barely changed anything at all.
 Commits,369
 Unique_Committers,All members committed, the commit heavy members all about
