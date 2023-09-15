@@ -2,11 +2,11 @@
 
 ## Project Scores
 
-- **Jobby**: [View Details](./project1/Jobby.csv/)
-- **Tracking System**: [View Details](./project1/Tracking_System.csv/)
-- **Git Simplified**: [View Details](./project1/Git_Simplified.csv/)
-- **Slash**: [View Details](./project1/Slash.csv/)
-- **Simplii**: [View Details](./project1/Simplii.csv/)
+- **Jobby**: [View Details](./Scores/Jobby.csv/)
+- **Tracking System**: [View Details](./Scores/Tracking_System.csv/)
+- **Git Simplified**: [View Details](./Scores/Git_Simplified.csv/)
+- **Slash**: [View Details](./Scores/Slash.csv/)
+- **Simplii**: [View Details](./Scores/Simplii.csv/)
 
 **Updating the Evaluation Tables**
 To maintain consistent formatting and simplify updates, we use a script (csv_to_markdown.py) that converts our CSV evaluation files into Markdown tables.
