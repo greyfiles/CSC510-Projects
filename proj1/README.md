@@ -1,5 +1,31 @@
 # Project 1
 
+## Project Scores
+
+- **Jobby**: [View Details](./project1/Jobby.csv/)
+- **Tracking System**: [View Details](./project1/Tracking_System.csv/)
+- **Git Simplified**: [View Details](./project1/Git_Simplified.csv/)
+- **Slash**: [View Details](./project1/Slash.csv/)
+- **Simplii**: [View Details](./project1/Simplii.csv/)
+
+**Updating the Evaluation Tables**
+To maintain consistent formatting and simplify updates, we use a script (csv_to_markdown.py) that converts our CSV evaluation files into Markdown tables.
+
+**Prerequisites**
+Python (3.x recommended)
+
+**Steps to Update the Table:**
+- First, ensure you have updated your CSV file with the new data. The CSV file should have the structure Criteria,Score,Comments.
+
+- Run the csv_to_markdown.py script with the path to your CSV file and the path to the markdown file you want to update as arguments.
+ Example/ python csv_to_markdown.py path_to_csv_file.csv Projectname.md 
+
+- The script will append the updated table to the specified markdown file.
+
+- Check the markdown file to ensure the table is correctly formatted and placed.
+
+- Commit and push your changes to the repository.
+
 ## 🎥Video of Working Project(GITS)
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/MBB66yQVwy8/0.jpg)](http://www.youtube.com/watch?v=MBB66yQVwy8 "csc510 working gits")
