@@ -1,30 +1,30 @@
 Criteria,Score,Comments
-Workload_Dist,0,Comments
-Commits,0, Comments
-Unique_Committers,0,Comments
-Issue_Reports,0,Comments
-Issues_Closed,0,Comments
-Doc_Quality,0,Comments
-Func/Class_Desc,0,Comments
-Tutorials,0, Comments
-Doc_Storytelling,0,Comments
-Project_Videos,0,Comments
-Version_Control,0,Comments
-Style_Checkers,0,Comments
-Code_Formatters,0,Comments
-Syntax_Checkers,0,Comments
-Code_Coverage,0,Comments
-Other_Tools,0,Comments
-Test_Cases,0,Comments
-Routine_Tests,0,Comments
-CONTRIBUTING_Guide,0,Comments
-Issue_Discussions,0,Comments
-Chat_Channel,0, Comments
-Failing_Case_Issues,0,Comments
-Team_Tool_Usage,0,Comments
-Repo_Configs,0,Comments
-Team_System_Knowledge,0,Comments 
-Team_Code_Contrib,0,Comments
-Release_Cycles,0,Comments
-Documentation_Video,0,Comments
-Software_Eval,0,Comments
+Workload_Dist,Commits were made by all group members. There are members who committed more than some others and a few that barely changed anything at all.
+Commits,369
+Unique_Committers,All members committed, the commit heavy members all about
+Issue_Reports,36
+Issues_Closed,32
+Doc_Quality,Github md files. Formattng is good and clear
+Func/Class_Desc,None aside from inline comments in the code
+Tutorials,Only video playing describes use. Also the description of how
+Doc_Storytelling,Does provide justification for why you might want to use it
+Project_Videos,Yes
+Version_Control,Git
+Style_Checkers,Yes
+Code_Formatters,Yes
+Syntax_Checkers,Yes
+Code_Coverage,Yes
+Other_Tools,No
+Test_Cases,Yes
+Routine_Tests,Yes
+CONTRIBUTING_Guide,Yes and sufficiently detailed
+Issue_Discussions,Yes
+Chat_Channel,None in Github that I can see
+Failing_Case_Issues,None
+Team_Tool_Usage,Yes
+Repo_Configs,Yes
+Team_System_Knowledge,No 
+Team_Code_Contrib,Yes
+Release_Cycles,No
+Documentation_Video,Short GIF instead of a video
+Software_Eval,,
