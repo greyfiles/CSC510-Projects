@@ -1,32 +1,32 @@
-Criteria,Comments
-Workload_Dist,"All group members contributed. There were a few members who contributed 
+Criteria,Score,Comments
+Workload_Dist,4,"All group members contributed. There were a few members who contributed 
 less than the top contributors but most work was evenly distributed"
-Commits,427
-Unique_Committers,10
-Issue_Reports,19
-Issues_Closed,19
-Doc_Quality,"Basic GitHub md, text, formatting is good"
-Func/Class_Desc,"ER Flowchar, App flowchart, no description of class/fuctions"
-Tutorials,"Has pictures of each page and its purpose, no real mini-tutorials though
+Commits,4,427
+Unique_Committers,4,10
+Issue_Reports,4,19
+Issues_Closed,4,19
+Doc_Quality,3,"Basic GitHub md, text, formatting is good"
+Func/Class_Desc,,"ER Flowchar, App flowchart, no description of class/fuctions"
+Tutorials,2,"Has pictures of each page and its purpose, no real mini-tutorials though
 everything is straightforward and simple"
-Doc_Storytelling,60%
-Project_Videos,Yes has short video detailing why their prodict should be used
-Version_Control,Git
-Style_Checkers,Flake8
-Code_Formatters,Flake8
-Syntax_Checkers,Flake8
-Code_Coverage,"Yes, using pytest-cov version 2.4.0 with 75% coverage"
-Other_Tools,No
-Test_Cases,Yes
-Routine_Tests,Yes
-CONTRIBUTING_Guide,"Yes, suffifient tips for a user to contribute"
-Issue_Discussions,Yes
-Chat_Channel,"No, just used GitHub Issues and PR to discuss"
-Failing_Case_Issues,No
-Team_Tool_Usage,Yes
-Repo_Configs,Yes
-Team_System_Knowledge,No
-Team_Code_Contrib,No
-Release_Cycles,"Yes, weekly iterations/updates"
-Documentation_Video,6:46
-Software_Eval,
+Doc_Storytelling,2,60%
+Project_Videos,4,Yes has short video detailing why their prodict should be used
+Version_Control,4,Git
+Style_Checkers,4,Flake8
+Code_Formatters,4,Flake8
+Syntax_Checkers,4,Flake8
+Code_Coverage,3,"Yes, using pytest-cov version 2.4.0 with 75% coverage"
+Other_Tools,2,No
+Test_Cases,4,Yes
+Routine_Tests,4,Yes
+CONTRIBUTING_Guide,4,"Yes, suffifient tips for a user to contribute"
+Issue_Discussions,4,Yes
+Chat_Channel,4,"No, just used GitHub Issues and PR to discuss"
+Failing_Case_Issues,4,No
+Team_Tool_Usage,3,Yes
+Repo_Configs,3,Yes
+Team_System_Knowledge,3,No
+Team_Code_Contrib,3,No
+Release_Cycles,4,"Yes, weekly iterations/updates"
+Documentation_Video,4,6:46
+Software_Eval,,
