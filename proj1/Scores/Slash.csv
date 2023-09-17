@@ -1,30 +1,29 @@
-Criteria,Comments
-Workload_Dist,Commits were made by all group members. There are members who committed more than some others and a few that barely changed anything at all.
-Commits,369
-Unique_Committers,All members committed. The commit heavy members all about evenly had around 30 - 40
-Issue_Reports,36
-Issues_Closed,32
-Doc_Quality,Github md files. Formattng is good and clear
-Func/Class_Desc,None aside from inline comments in the code
-Tutorials,Only video playing describes use. Also the description of how to just send an api call for results is detailed
-Doc_Storytelling,Does provide justification for why you might want to use it
-Project_Videos,Yes
-Version_Control,Git
-Style_Checkers,Yes
-Code_Formatters,Yes
-Syntax_Checkers,Yes
-Code_Coverage,Yes
-Other_Tools,No
-Test_Cases,Yes
-Routine_Tests,Yes
-CONTRIBUTING_Guide,Yes and sufficiently detailed
-Issue_Discussions,Yes
-Chat_Channel,None in Github that I can see
-Failing_Case_Issues,None
-Team_Tool_Usage,Yes
-Repo_Configs,Yes
-Team_System_Knowledge,No 
-Team_Code_Contrib,Yes
-Release_Cycles,No
-Documentation_Video,Short GIF instead of a video
-Software_Eval,
+Criteria,Score,Comments
+Workload_Dist,2,Commits were made by all group members. There are members who committed more than some others and a few that barely changed anything at all.
+Commits,2,369 Total - They seem to be relatively small and easy to keep track of
+Unique_Committers,1,All members committed but some didn't commit much. The commit heavy members all about evenly had around 30 - 40
+Issue_Reports,3,36 Total - They clearly used the feature
+Issues_Closed,3,32 Total - Indicitive of solving issues but only the ones that matter
+Doc_Quality,2,Formattng is good and clear but relatively plain and uninteresting
+Func/Class_Desc,0,None aside from inline comments in the code
+Tutorials,1,Only video playing describes use. Also the description of how to just send an api call for results is detailed
+Doc_Storytelling,2,Does provide justification for why you might want to use it and tries to be convincing
+Project_Videos,2,Included a video but not very convincing
+Version_Control,3,Git
+Style_Checkers,3,
+Code_Formatters,3,
+Syntax_Checkers,3,
+Code_Coverage,3,
+Other_Tools,0,No evidence of any
+Test_Cases,3,Present and appear to be of quality
+Routine_Tests,3,
+CONTRIBUTING_Guide,3,Included and sufficiently detailed
+Issue_Discussions,3,
+Chat_Channel,0,None in Github that I can see
+Failing_Case_Issues,0,Issues aren't related to a failing test
+Team_Tool_Usage,3,
+Repo_Configs,3,
+Team_System_Knowledge,0,Not really able to score because I can't ask for their knowledge
+Team_Code_Contrib,3,
+Release_Cycles,0,Only single version (1.0.0) mentioned anywhere
+Documentation_Video,1,Short GIF instead of a video
