@@ -1,30 +1,29 @@
 Criteria,Score,Comments
-Workload_Dist,0, Comments
-Commits,0, Comments
-Unique_Committers,0, Comments
-Issue_Reports,0, Comments
-Issues_Closed,0, Comments
-Doc_Quality,0, Comments
-Func/Class_Desc,0, Comments
-Tutorials,0, Comments
-Doc_Storytelling,0, Comments
-Project_Videos,0, Comments
-Version_Control,0, Comments
-Style_Checkers,0, Comments
-Code_Formatters,0, Comments
-Syntax_Checkers,0, Comments
-Code_Coverage,0, Comments
-Other_Tools,0, Comments
-Test_Cases,0, Comments
-Routine_Tests,0, Comments
-CONTRIBUTING_Guide,0, Comments
-Issue_Discussions,0, Comments
-Chat_Channel,0, Comments
-Failing_Case_Issues,0, Comments
-Team_Tool_Usage,0, Comments
-Repo_Configs,0, Comments
-Team_System_Knowledge,0,Comments 
-Team_Code_Contrib,0, Comments
-Release_Cycles,0, Comments
-Documentation_Video,0, Comments
-Software_Eval,0,Comments
+Workload_Dist,3, All members committed. Workload was evenly divided as per graphs/contributors in insights
+Commits,3, 271
+Unique_Committers,2, All members committed. Distributed fairly evenly
+Issue_Reports,2, 24
+Issues_Closed,2, 24
+Doc_Quality,2, Many .md files not much else
+Func/Class_Desc,2, Outline of each command 
+Tutorials,1, Outline of each CLI function
+Doc_Storytelling,0, Not much justification shown
+Project_Videos,2, Video Included. Not very convincing
+Version_Control,0, 2 version tags (not semver)
+Style_Checkers,0, No evidence of any style checking 
+Code_Formatters,0, No evidence of any code formatting
+Syntax_Checkers,0, No evidence of style checking
+Code_Coverage,2, Evidence of coverage tools being used
+Other_Tools,0, No other tools evident
+Test_Cases,2, Batch unit testing in files
+Routine_Tests,2, Unit tests run frequently
+CONTRIBUTING_Guide,2, Exists but very basic
+Issue_Discussions,1, No discussion. Only process
+Chat_Channel,0, None seen in github
+Failing_Case_Issues,0, Few or no issues related to tests
+Team_Tool_Usage,2, No tools besides basic python and coverage
+Repo_Configs,2, Some configurations in repo for python
+Team_System_Knowledge,0, Commits done in different areas by different people 
+Team_Code_Contrib,2, Good amount of cross-work
+Release_Cycles,0, 1 release at the end of project
+Documentation_Video,2, Embedded video showing CLI used
