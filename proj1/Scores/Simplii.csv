@@ -6,23 +6,23 @@ Unique_Committers,4,10
 Issue_Reports,4,19
 Issues_Closed,4,19
 Doc_Quality,3,"Basic GitHub md, text, formatting is good"
-Func/Class_Desc,,"ER Flowchar, App flowchart, no description of class/fuctions"
+Func/Class_Desc,4,"ER Flowchar, App flowchart, no description of class/fuctions"
 Tutorials,2,"Has pictures of each page and its purpose, no real mini-tutorials though
 everything is straightforward and simple"
-Doc_Storytelling,2,60%
-Project_Videos,4,Yes has short video detailing why their prodict should be used
+Doc_Storytelling,3,60%
+Project_Videos,2,Yes has short video detailing why their prodict should be used
 Version_Control,4,Git
 Style_Checkers,4,Flake8
 Code_Formatters,4,Flake8
 Syntax_Checkers,4,Flake8
 Code_Coverage,3,"Yes, using pytest-cov version 2.4.0 with 75% coverage"
 Other_Tools,2,No
-Test_Cases,4,Yes
-Routine_Tests,4,Yes
+Test_Cases,3,Yes
+Routine_Tests,3,Yes
 CONTRIBUTING_Guide,4,"Yes, suffifient tips for a user to contribute"
 Issue_Discussions,4,Yes
-Chat_Channel,4,"No, just used GitHub Issues and PR to discuss"
-Failing_Case_Issues,4,No
+Chat_Channel,3,"No, just used GitHub Issues and PR to discuss"
+Failing_Case_Issues,3,No
 Team_Tool_Usage,3,Yes
 Repo_Configs,3,Yes
 Team_System_Knowledge,3,No
