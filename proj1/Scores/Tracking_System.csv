@@ -1,30 +1,30 @@
-Criteria,Score,Comments
-Workload_Dist,0, Comments
-Commits,0, Comments
-Unique_Committers,0, Comments
-Issue_Reports,0, Comments
-Issues_Closed,0, Comments
-Doc_Quality,0, Comments
-Func/Class_Desc,0, Comments
-Tutorials,0, Comments
-Doc_Storytelling,0, Comments
-Project_Videos,0, Comments
-Version_Control,0, Comments
-Style_Checkers,0, Comments
-Code_Formatters,0, Comments
-Syntax_Checkers,0, Comments
-Code_Coverage,0, Comments
-Other_Tools,0, Comments
-Test_Cases,0, Comments
-Routine_Tests,0, Comments
-CONTRIBUTING_Guide,0, Comments
-Issue_Discussions,0, Comments
-Chat_Channel,0, Comments
-Failing_Case_Issues,0, Comments
-Team_Tool_Usage,0, Comments
-Repo_Configs,0, Comments
-Team_System_Knowledge,0,Comments 
-Team_Code_Contrib,0, Comments
-Release_Cycles,0, Comments
-Documentation_Video,0, Comments
-Software_Eval,0,Comments
+Criteria,Comments
+"Workload is spread over the whole team","All members committed. Workload was evenly divided As per graphs/contributors in insights"
+"Number of commits",341
+"Number of commits: by different people","All members committed as per Commits/main"
+"Issues reports: there are many",19
+"Issues are being closed",5
+"Docs: doco generated, format not ugly","Github, text"
+"Docs: what: point descriptions of each class/function (in isolation)","API description."
+"Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z","Github actions implemented : pytest_ci workflow responsible for testing"
+"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing","80%"
+"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.","Yes."
+"Use of version control tools","Git"
+"Use of style checkers","config files in GH showing this checker's config"
+"Use of code formatters.","yes"
+"Use of syntax checkers.","yes"
+"Use of code coverage","yes"
+"Other automated analysis tools","no"
+"Test cases exist","no"
+"Test cases are routinely executed","yes"
+"The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up","no"
+"Issues are discussed before they are closed","No(does this means chat channel on github?)"
+"Chat channel: exists","No"
+"Test cases: a large proportion of the issues related to handling failing cases.","Same package, server and config files updated by everyone."
+"Evidence that the whole team is using the same tools: everyone can get to all tools and files","Yes"
+"Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)","no"
+"Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)","no"
+"Evidence that the members of the team are working across multiple places in the code base","no"
+"Short release cycles","1 release"
+"Video","1:58 sec"
+"Software sustainable evaluation",""
