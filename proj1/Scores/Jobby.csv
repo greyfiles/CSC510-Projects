@@ -1,34 +1,34 @@
-Criteria,Comments
-Workload_Dist,"All members committed. 
+"Criteria","Comments"
+"Workload_Dist","All members committed. 
 workload was evenly divided as per 
 graphs/contributors in insights"
-Commits,621
-Unique_Committers,"All members committed as per 
+"Commits","621"
+"Unique_Committers","All members committed as per 
 Commits/main"
-Issue_Reports,51
-Issues_Closed,42
-Doc_Quality,Github, text
-Func/Class_Desc,Just DB schema, no class descriptions
-Tutorials,yes
-Doc_Storytelling,80%
-Project_Videos,Yes, but hosted ncsu limited accessibility
-Version_Control,Git
-Style_Checkers,"config files in GH showing 
+"Issue_Reports","51"
+"Issues_Closed","42"
+"Doc_Quality","Github, text"
+"Func/Class_Desc","Just DB schema, no class descriptions"
+"Tutorials","yes"
+"Doc_Storytelling","80%"
+"Project_Videos","Yes, but hosted ncsu limited accessibility"
+"Version_Control","Git"
+"Style_Checkers","config files in GH showing 
 this checker's config"
-Code_Formatters,yes
-Syntax_Checkers,yes
-Code_Coverage,yes
-Other_Tools,yes
-Test_Cases,Yes
-Routine_Tests,yes
-CONTRIBUTING_Guide,Yes(not many tips)
-Issue_Discussions,yes
-Chat_Channel,sak007/Jobby · Discussions · GitHub
-Failing_Case_Issues,yes
-Team_Tool_Usage,yes
-Repo_Configs,Yes
-Team_System_Knowledge,no
-Team_Code_Contrib,no
-Release_Cycles,2 releases
-Documentation_Video,7 min32 sec
-Software_Eval,
+"Code_Formatters","yes"
+"Syntax_Checkers","yes"
+"Code_Coverage","yes"
+"Other_Tools","yes"
+"Test_Cases","Yes"
+"Routine_Tests","yes"
+"CONTRIBUTING_Guide","Yes(not many tips)"
+"Issue_Discussions","yes"
+"Chat_Channel","sak007/Jobby · Discussions · GitHub"
+"Failing_Case_Issues","yes"
+"Team_Tool_Usage","yes"
+"Repo_Configs","Yes"
+"Team_System_Knowledge","no"
+"Team_Code_Contrib","no"
+"Release_Cycles","2 releases"
+"Documentation_Video","7 min32 sec"
+"Software_Eval",""

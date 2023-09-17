@@ -1,34 +1,34 @@
-Criteria,Comments
-Workload_Dist,"All members committed. 
+"Criteria","Comments"
+"Workload_Dist","All members committed. 
 workload was evenly divided
 As per graphs/contributors in insights"
-Commits,341
-Unique_Committers,"All members committed as per 
+"Commits","341"
+"Unique_Committers","All members committed as per 
 Commits/main"
-Issue_Reports,19
-Issues_Closed,5
-Doc_Quality,Github, text
-Func/Class_Desc,API description.
-Tutorials,"Github actions implemented : pytest_ci workflow 
+"Issue_Reports","19"
+"Issues_Closed","5"
+"Doc_Quality","Github, text"
+"Func/Class_Desc","API description."
+"Tutorials","Github actions implemented : pytest_ci workflow 
 responsible for testing"
-Doc_Storytelling,80%
-Project_Videos,Yes.
-Version_Control,Git
-Style_Checkers,config files in GH showing this checker's config
-Code_Formatters,yes
-Syntax_Checkers,yes
-Code_Coverage,yes
-Other_Tools,yes
-Test_Cases,no
-Routine_Tests,no
-CONTRIBUTING_Guide,yes
-Issue_Discussions,no
-Chat_Channel,No(does this means chat channel on github?)
-Failing_Case_Issues,No
-Team_Tool_Usage,Same package, server and config files updated by everyone.
-Repo_Configs,Yes
-Team_System_Knowledge,no
-Team_Code_Contrib,no
-Release_Cycles,1 release
-Documentation_Video,1:58 sec
-Software_Eval,
+"Doc_Storytelling","80%"
+"Project_Videos","Yes."
+"Version_Control","Git"
+"Style_Checkers","config files in GH showing this checker's config"
+"Code_Formatters","yes"
+"Syntax_Checkers","yes"
+"Code_Coverage","yes"
+"Other_Tools","yes"
+"Test_Cases","no"
+"Routine_Tests","no"
+"CONTRIBUTING_Guide","yes"
+"Issue_Discussions","no"
+"Chat_Channel","No(does this means chat channel on github?)"
+"Failing_Case_Issues","No"
+"Team_Tool_Usage","Same package, server and config files updated by everyone."
+"Repo_Configs","Yes"
+"Team_System_Knowledge","no"
+"Team_Code_Contrib","no"
+"Release_Cycles","1 release"
+"Documentation_Video","1:58 sec"
+"Software_Eval",""
