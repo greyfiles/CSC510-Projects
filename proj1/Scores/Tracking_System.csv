@@ -1,16 +1,12 @@
 "Criteria","Score","Comments"
-"Workload_Dist",3,"All members committed. 
-workload was evenly divided
-As per graphs/contributors in insights"
+"Workload_Dist",3,"All members committed.workload was evenly divided As per graphs/contributors in insights"
 "Commits",3,"341"
-"Unique_Committers",3,"All members committed as per 
-Commits/main"
+"Unique_Committers",3,"All members committed as per Commits/main"
 "Issue_Reports",2,"19"
 "Issues_Closed",1,"5"
 "Doc_Quality",2,"Github, text"
 "Func/Class_Desc",2,"API description."
-"Tutorials",2,"Github actions implemented : pytest_ci workflow 
-responsible for testing"
+"Tutorials",2,"Github actions implemented : pytest_ci workflow responsible for testing"
 "Doc_Storytelling",2,"80%"
 "Project_Videos",3,"Yes."
 "Version_Control",3,"Git"
