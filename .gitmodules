@@ -1,0 +1,3 @@
+[submodule "proj2/GITS"]
+	path = proj2/GITS
+	url = https://github.com/greyfiles/GITS.git
