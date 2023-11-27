@@ -1,4 +1,6 @@
 # Project 3 Changes
+[New Project Repository](https://github.com/maddaicita/ClassMateBot-1.1)
+
 ## Additions
 
 ### Helping User, Communicating Commands, and UX
