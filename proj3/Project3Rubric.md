@@ -3,7 +3,7 @@
 
 |Notes|Score (96)|evidence|
 |-----|-----|---------|
-| Video                                       | 3     | [2min video of new functionality, showing a significant delta from prior.](https://www.youtube.com/watch?v=8CfEfXnoKMs)  |
+| Video                                       | 3     | [2min video of new functionality, showing a significant delta from prior.](https://youtu.be/Gs07US2SGL4)  |
 |Workload is spread over the whole team | 3 |[evidence in GH](https://github.com/maddaicita/ClassMateBot-1.1/pulse/monthly)|
 |Number of commits| 3|[in GH](https://github.com/maddaicita/ClassMateBot-1.1/pulse/monthly)|
 |Number of commits: by different people| 3|[in GH](https://github.com/maddaicita/ClassMateBot-1.1/graphs/contributors)|

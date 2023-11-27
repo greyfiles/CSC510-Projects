@@ -17,3 +17,7 @@ This version includes a more detailed [Installation Guide](https://github.com/ma
 
 ### Upgrade Reminder System: 
 A new Reminders Cog for more personalized reminder management, independent of course-related tasks. This includes the capability to add, delete, list, and update personal reminders. A dedicated personal_reminders table was added to support this functionality, enabling enhanced features while maintaining the existing system's integrity.
+
+### Video Showing Changes
+
+[Video of Changes](https://youtu.be/Gs07US2SGL4)
